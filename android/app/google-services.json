@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363816400266",
+    "project_id": "newtelegrambot-6b0e4",
+    "storage_bucket": "newtelegrambot-6b0e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363816400266:android:6ce32edc98a651aca28473",
+        "android_client_info": {
+          "package_name": "com.example.bot_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6t9w5wPY2qx1t-WyHMLYY6OKZ3L80RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363816400266:android:22d2c0444f4b08a5a28473",
+        "android_client_info": {
+          "package_name": "com.ourteelgrambotapi.ourtelegrambot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6t9w5wPY2qx1t-WyHMLYY6OKZ3L80RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
